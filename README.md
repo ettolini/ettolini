@@ -11,4 +11,4 @@ The name's Ettore, but my friends call me Etto. I'm a curious programmer, an ana
 
 ## Programmer Skillset
 
-![alt text](https://mpng.subpng.com/20190627/ttx/kisspng-javascript-computer-icons-scalable-vector-graphics-list-of-javascript-enhancements-fandom-developers-5d145895b06253.7824611015616144857225.jpg "JavaScript")
+![alt text](https://img.favpng.com/6/25/2/front-end-web-development-cascading-style-sheets-javascript-html-png-favpng-sHsXTL4eFMesJu0QvvuPVs1h9.jpg "JavaScript")
