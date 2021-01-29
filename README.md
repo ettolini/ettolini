@@ -4,9 +4,9 @@ The name's Ettore, but my friends call me Etto. I'm a curious programmer, an ana
 
 - :computer: Becoming a FullStack developer is my most current goal.
 - 🌱 Constantly learning new skills, all the while improving old ones.
-- :money_with_wings: Looking forward to invest, build a foundation for new projects.
-- 🤔 Interested in psychology and philosophy, focused on self-improvement. 
 - :video_game: Raised with videogames, made me passionte about technology and art.
+- :chart: Looking forward to invest, build a foundation for new projects.
+- 🤔 Interested in psychology and philosophy, focused on self-improvement. 
 - :mount_fuji: Strong-willed character, there's no challenge meant to stop you for good.
 
 ## Programmer Skillset
