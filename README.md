@@ -11,9 +11,9 @@ The name's Ettore, but my friends call me Etto. I'm a curious programmer, an ana
 
 ## Programmer Skillset
 
-#### FrontEnd
+#### - FrontEnd
 <img src="https://camo.githubusercontent.com/ba94b350b30b9eb5458da081c5cccd98e2549f45bada8d9056579e26c26d0cb0/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f68746d6c2d352e737667" width="50" height="50">
-<img src="https://camo.githubusercontent.com/ba94b350b30b9eb5458da081c5cccd98e2549f45bada8d9056579e26c26d0cb0/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f68746d6c2d352e737667" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50" height="50">
 <img src="https://camo.githubusercontent.com/ba94b350b30b9eb5458da081c5cccd98e2549f45bada8d9056579e26c26d0cb0/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f68746d6c2d352e737667" width="50" height="50">
 <img src="https://camo.githubusercontent.com/ba94b350b30b9eb5458da081c5cccd98e2549f45bada8d9056579e26c26d0cb0/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f68746d6c2d352e737667" width="50" height="50">
 <img src="https://camo.githubusercontent.com/ba94b350b30b9eb5458da081c5cccd98e2549f45bada8d9056579e26c26d0cb0/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f68746d6c2d352e737667" width="50" height="50">
