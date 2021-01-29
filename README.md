@@ -11,6 +11,4 @@ The name's Ettore, but my friends call me Etto. I'm a curious programmer, an ana
 
 ## Programmer Skillset
 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.pngs=200
+<img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="400" height="790">
