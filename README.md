@@ -12,7 +12,7 @@ The name's Ettore, but my friends call me Etto. I'm a curious programmer, an ana
 ## Programmer Skillset
 
 #### - FrontEnd
-<img src="https://camo.githubusercontent.com/16f6271f57e66053caabae23a13a4e5baf678013825d37409b42d64ebc25e246/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6a6176617363726970742d312e737667" width="50px" height="50px"> <img src="https://camo.githubusercontent.com/ba94b350b30b9eb5458da081c5cccd98e2549f45bada8d9056579e26c26d0cb0/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f68746d6c2d352e737667" width="60px" height="50px"><img src="https://camo.githubusercontent.com/5a540a748bef7b5a5c6b38215315abc4c40e31cb733d5f83534ffbdc00eb9e37/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d352e737667" width="50px" height="50px">
+<img src="https://camo.githubusercontent.com/16f6271f57e66053caabae23a13a4e5baf678013825d37409b42d64ebc25e246/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6a6176617363726970742d312e737667" width="50px" height="50px"> - <img src="https://camo.githubusercontent.com/ba94b350b30b9eb5458da081c5cccd98e2549f45bada8d9056579e26c26d0cb0/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f68746d6c2d352e737667" width="75px" height="65px"> - <img src="https://camo.githubusercontent.com/5a540a748bef7b5a5c6b38215315abc4c40e31cb733d5f83534ffbdc00eb9e37/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d352e737667" width="50px" height="50px"> - 
 <img src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" width="50px" height="50px">
 
 #### - BackEnd
