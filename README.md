@@ -12,8 +12,7 @@ The name's Ettore, but my friends call me Etto. I'm a curious programmer, an ana
 ## Programmer Skillset
 
 #### - FrontEnd
-<img src="https://i.stack.imgur.com/PgcSR.png" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50" height="50">
+<img src="https://i.stack.imgur.com/PgcSR.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="100" height="50">
 <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="50" height="50">
 <img src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" width="50" height="50">
 
