@@ -12,8 +12,12 @@ The name's Ettore, but my friends call me Etto. I'm a curious programmer, an ana
 ## Programmer Skillset
 
 #### - FrontEnd
-<img src="https://www.vhv.rs/dpng/d/486-4866189_html-css-logo-png-transparent-png.png" width="50" height="50"> /* JavaScript CSS */
+<img src="https://i.stack.imgur.com/PgcSR.png" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50" height="50">
-<img src="https://camo.githubusercontent.com/ba94b350b30b9eb5458da081c5cccd98e2549f45bada8d9056579e26c26d0cb0/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f68746d6c2d352e737667" width="50" height="50">
-<img src="https://camo.githubusercontent.com/ba94b350b30b9eb5458da081c5cccd98e2549f45bada8d9056579e26c26d0cb0/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f68746d6c2d352e737667" width="50" height="50">
-<img src="https://camo.githubusercontent.com/ba94b350b30b9eb5458da081c5cccd98e2549f45bada8d9056579e26c26d0cb0/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f68746d6c2d352e737667" width="50" height="50">
+<img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="50" height="50">
+<img src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" width="50" height="50">
+
+#### - BackEnd
+<img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" width="50" height="50">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dmicrosoft%2BAzure&psig=AOvVaw0Nlb0zgLEGYoJkcoGgQQNU&ust=1612017237034000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCnyKquwe4CFQAAAAAdAAAAABAJ" width="50" height="50">
