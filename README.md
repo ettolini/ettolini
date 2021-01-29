@@ -9,4 +9,4 @@ The name's Ettore, but my friends call me Etto. I'm a curious programmer, an ana
 - 🤔 Interested in psychology and philosophy, focused on self-improvement. 
 - :video_game: Raised with videogames, made me passionte about technology and art.
 - :mount_fuji: Strong-willed character, there's no challenge meant to stop you for good.
--->
+
