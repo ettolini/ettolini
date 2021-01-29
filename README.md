@@ -1,4 +1,4 @@
-### Alt-H2 Hello, World! :earth_americas:
+## Hello, World! :earth_americas:
 
 
 The name's Ettore, but my friends call me Etto. I'm a curious programmer, an analytical thinker, and a disciplined young man.
