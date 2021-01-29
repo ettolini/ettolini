@@ -1,15 +1,12 @@
-### Hello, World! 👋
+### Hello, World! :earth_americas:
 
 
-Here are some ideas to get you started:
+The name's Ettore, but my friends call me Etto. I'm a curious programmer, an analytical thinker, and a disciplined young man.
 
-- 🔭 Interested in becoming a Fullstack developer.
+- :computer: Becoming a Fullstack developer is my most current goal.
 - 🌱 Constantly learning new skills, all the while improving old ones.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- :mount_fuji: 
+- :money_with_wings: Looking forward to invest, build a foundation for new projects.
+- 🤔 Interested in psychology and philosophy, focused on self-improvement. 
+- :video_game: Raised with videogames, made me passionte about technology and art.
+- :mount_fuji: Strong-willed character, there's no challenge meant to stop you for good.
 -->
