@@ -13,4 +13,4 @@ The name's Ettore, but my friends call me Etto. I'm a curious programmer, an ana
 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.pngs=200 "Logo Title Text 2"
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.pngs=200
