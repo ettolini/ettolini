@@ -16,3 +16,6 @@ The name's Ettore, but my friends call me Etto. I'm a curious programmer, an ana
 
 #### - BackEnd
 <img src="https://freepikpsd.com/wp-content/uploads/2019/10/java-logo-png-4-Transparent-Images.png" width="50px" height="50px"> --> Java <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" width="50px" height="50px"> --> C# <img src="https://www.pinclipart.com/picdir/big/9-92644_database-clipart-raw-data-azure-sql-server-png.png" width="50px" height="50px"> --> SQL
+
+#### - Others
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" height="50px"> --> Git
