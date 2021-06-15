@@ -11,8 +11,8 @@ The name's Ettore, but my friends call me Etto. I'm a curious programmer, an ana
 
 ## Skillset
 
-#### FrontEnd = { JavaScript, HTML, CSS, React, TypeScript }
+#### FrontEnd = { JavaScript, HTML, CSS, React, TypeScript };
 
-#### BackEnd = { Java, JavaScript, C#, SQL, TypeScript }
+#### BackEnd = { Java, JavaScript, C#, SQL, TypeScript };
 
-#### Others = { Git, Microsoft Dynamics }
+#### Others = { Git, Microsoft Dynamics };
