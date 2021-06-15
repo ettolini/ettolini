@@ -11,11 +11,8 @@ The name's Ettore, but my friends call me Etto. I'm a curious programmer, an ana
 
 ## Skillset
 
-#### - FrontEnd
-<img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" width="50px" height="50px"> --> JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="57px" height="51px"> --> HTML <img src="https://camo.githubusercontent.com/5a540a748bef7b5a5c6b38215315abc4c40e31cb733d5f83534ffbdc00eb9e37/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d352e737667" width="70px" height="65px"> --> CSS <img src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png" width="65px" height="52px"> --> Bootstrap
+#### FrontEnd = { JavaScript, HTML, CSS, React, TypeScript }
 
-#### - BackEnd
-<img src="https://freepikpsd.com/wp-content/uploads/2019/10/java-logo-png-4-Transparent-Images.png" width="50px" height="50px"> --> Java <img src="https://user-images.githubusercontent.com/73268095/119277353-80f73b80-bbf5-11eb-9a30-c6baecc950d0.png" width="50px" height="50px"> --> C# <img src="https://user-images.githubusercontent.com/73268095/119277379-aa17cc00-bbf5-11eb-9397-1b32c2a66ad1.png" width="50px" height="50px"> --> SQL <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" width="50px" height="50px"> --> JavaScript
+#### BackEnd = { Java, JavaScript, C#, SQL, TypeScript }
 
-#### - Others
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" height="50px"> --> Git
+#### Others = { Git, Microsoft Dynamics }
